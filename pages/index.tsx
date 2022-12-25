@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            001 Get started by editing&nbsp;
+            002 Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
